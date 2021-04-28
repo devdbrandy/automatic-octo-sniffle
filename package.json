@@ -48,5 +48,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/devdbrandy/automatic-octo-sniffle.git"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
   }
 }
